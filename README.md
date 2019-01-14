@@ -3,6 +3,8 @@
  * The first thing it does is to generate randomly the scores for each team
  * Then, it compares the score of each team to determine the winner.
  */
+
+
 public class Winner 
 {
 	//Useful variables
